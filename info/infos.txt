@@ -1,0 +1,20 @@
+Fonte: Poppins
+
+Cores: 
+branco: #fffff
+cinza: #4d4f51
+rosa: #E7344C
+
+Degrade: #E7344C - #C2197E
+
+
+Lorem ipsum dolor sit amet, onsectetur Proin gravida nibh vel velit auctor aliquet.
+
+We build pretty complex tools and this allows us to take designs and turn them into functional quickly and easily.
+
+:after{
+
+EMPIRE BUSINESS LANDING PAGE FOR YOU
+
+Sed vehicula semper sapien, quis gravida massa cursus luctus. Cras as feugiat urna. Preaesent tempus sed quam vel ornare. Quisque tempus orci pretium lorem euismod, a a hendrerit odio viverra. In at viverra lacus, a blandit urna. Aenean semper leo it nisl malesuada, rtrum sodales ipsum posuere. Duis sit amet sapien dolor. Vivamus luctus viverra leo, vel ultrices eros eleifend.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin quis rhoncus antes, eget molestie dolor. Duis tellus magna, malesuada vitae velit in, ultrices fringilla metus. Nulla faci
